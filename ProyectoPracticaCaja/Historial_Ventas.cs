@@ -9,7 +9,7 @@ namespace ProyectoPracticaCaja
     
     class Historial_Ventas
     {
-        private static readonly string Ruta = "C:\\Users\\usuario\\Desktop\\KIKER\\PRACTICA PROGRAMACION\\BACK\\Historial_ventas.txt";
+        private static readonly string Ruta = "C:\\Users\\usuario\\Desktop\\KIKER\\PRACTICA PROGRAMACION\\BACK\\ProyectoPracticaCaja\\Historial_ventas.txt";
         public Historial_Ventas()
         {
 

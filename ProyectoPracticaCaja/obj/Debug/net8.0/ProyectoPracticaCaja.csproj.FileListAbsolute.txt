@@ -12,3 +12,4 @@ C:\Users\usuario\Desktop\KIKER\PRACTICA PROGRAMACION\BACK\ProyectoPracticaCaja\P
 C:\Users\usuario\Desktop\KIKER\PRACTICA PROGRAMACION\BACK\ProyectoPracticaCaja\ProyectoPracticaCaja\obj\Debug\net8.0\ProyectoPracticaCaja.pdb
 C:\Users\usuario\Desktop\KIKER\PRACTICA PROGRAMACION\BACK\ProyectoPracticaCaja\ProyectoPracticaCaja\obj\Debug\net8.0\ProyectoPracticaCaja.genruntimeconfig.cache
 C:\Users\usuario\Desktop\KIKER\PRACTICA PROGRAMACION\BACK\ProyectoPracticaCaja\ProyectoPracticaCaja\obj\Debug\net8.0\ref\ProyectoPracticaCaja.dll
+C:\Users\usuario\Desktop\KIKER\PRACTICA PROGRAMACION\BACK\ProyectoPracticaCaja\ProyectoPracticaCaja\obj\Debug\net8.0\ProyectoPracticaCaja.sourcelink.json
