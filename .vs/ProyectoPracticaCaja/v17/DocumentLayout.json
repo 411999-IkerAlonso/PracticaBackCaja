@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\usuario\\Desktop\\KIKER\\PRACTICA PROGRAMACION\\BACK\\ProyectoPracticaCaja\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC0E919-6265-44B9-BFAF-2DABDAB04314}|ProyectoPracticaCaja\\ProyectoPracticaCaja.csproj|c:\\users\\usuario\\desktop\\kiker\\practica programacion\\back\\proyectopracticacaja\\proyectopracticacaja\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EC0E919-6265-44B9-BFAF-2DABDAB04314}|ProyectoPracticaCaja\\ProyectoPracticaCaja.csproj|solutionrelative:proyectopracticacaja\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC0E919-6265-44B9-BFAF-2DABDAB04314}|ProyectoPracticaCaja\\ProyectoPracticaCaja.csproj|c:\\users\\usuario\\desktop\\kiker\\practica programacion\\back\\proyectopracticacaja\\proyectopracticacaja\\historial_ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EC0E919-6265-44B9-BFAF-2DABDAB04314}|ProyectoPracticaCaja\\ProyectoPracticaCaja.csproj|solutionrelative:proyectopracticacaja\\historial_ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC0E919-6265-44B9-BFAF-2DABDAB04314}|ProyectoPracticaCaja\\ProyectoPracticaCaja.csproj|c:\\users\\usuario\\desktop\\kiker\\practica programacion\\back\\proyectopracticacaja\\proyectopracticacaja\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EC0E919-6265-44B9-BFAF-2DABDAB04314}|ProyectoPracticaCaja\\ProyectoPracticaCaja.csproj|solutionrelative:proyectopracticacaja\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC0E919-6265-44B9-BFAF-2DABDAB04314}|ProyectoPracticaCaja\\ProyectoPracticaCaja.csproj|c:\\users\\usuario\\desktop\\kiker\\practica programacion\\back\\proyectopracticacaja\\proyectopracticacaja\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EC0E919-6265-44B9-BFAF-2DABDAB04314}|ProyectoPracticaCaja\\ProyectoPracticaCaja.csproj|solutionrelative:proyectopracticacaja\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Historial_Ventas.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\KIKER\\PRACTICA PROGRAMACION\\BACK\\ProyectoPracticaCaja\\ProyectoPracticaCaja\\Historial_Ventas.cs",
+              "RelativeDocumentMoniker": "ProyectoPracticaCaja\\Historial_Ventas.cs",
+              "ToolTip": "C:\\Users\\usuario\\Desktop\\KIKER\\PRACTICA PROGRAMACION\\BACK\\ProyectoPracticaCaja\\ProyectoPracticaCaja\\Historial_Ventas.cs",
+              "RelativeToolTip": "ProyectoPracticaCaja\\Historial_Ventas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T22:34:12.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\KIKER\\PRACTICA PROGRAMACION\\BACK\\ProyectoPracticaCaja\\ProyectoPracticaCaja\\Pedido.cs",
+              "RelativeDocumentMoniker": "ProyectoPracticaCaja\\Pedido.cs",
+              "ToolTip": "C:\\Users\\usuario\\Desktop\\KIKER\\PRACTICA PROGRAMACION\\BACK\\ProyectoPracticaCaja\\ProyectoPracticaCaja\\Pedido.cs",
+              "RelativeToolTip": "ProyectoPracticaCaja\\Pedido.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T21:47:07.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\KIKER\\PRACTICA PROGRAMACION\\BACK\\ProyectoPracticaCaja\\ProyectoPracticaCaja\\Producto.cs",
+              "RelativeDocumentMoniker": "ProyectoPracticaCaja\\Producto.cs",
+              "ToolTip": "C:\\Users\\usuario\\Desktop\\KIKER\\PRACTICA PROGRAMACION\\BACK\\ProyectoPracticaCaja\\ProyectoPracticaCaja\\Producto.cs",
+              "RelativeToolTip": "ProyectoPracticaCaja\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T21:46:59.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\KIKER\\PRACTICA PROGRAMACION\\BACK\\ProyectoPracticaCaja\\ProyectoPracticaCaja\\Program.cs",
+              "RelativeDocumentMoniker": "ProyectoPracticaCaja\\Program.cs",
+              "ToolTip": "C:\\Users\\usuario\\Desktop\\KIKER\\PRACTICA PROGRAMACION\\BACK\\ProyectoPracticaCaja\\ProyectoPracticaCaja\\Program.cs",
+              "RelativeToolTip": "ProyectoPracticaCaja\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T21:46:13.913Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
